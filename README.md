@@ -1,3 +1,3 @@
 # student-information-system
 
-![demo](public/demo.png)
+![demo](public/image/demo.png)
